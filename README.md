@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Nhan-Dien-Giong-Noi
-=======
 # Hệ thống Nhận diện Giọng nói và Xác định Người nói
 
 <div align="center">
@@ -136,4 +133,3 @@ Dự án được phát triển bởi 4 thành viên:
 | Bùi Anh Tuấn     | Hỗ trợ bài tập lớn, thu thập dữ liệu.      |
 
 © 2025 NHÓM 10, CNTT16-03, TRƯỜNG ĐẠI HỌC ĐẠI NAM
->>>>>>> 22f42dd (init project)
